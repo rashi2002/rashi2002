@@ -1,12 +1,9 @@
 # Hey, I'm Rashi! 
 **Hello and welcome to my little corner of the internet! Here you will find all of my completed and in-progress projects!!** 
 
-## A bit about me
+## A bit about me..
 
-### Skills
-
-Languages: Python, Java ☕, C, R, HTML/CSS, TypeScript, MATLAB, SQL, GOlang⚡
-Tools: React ⚛️, AWS, TensorFlow, Node.js, Git, Linux, jQuery, Dagger, Jira, Docker, Jenkins, Robot
+✨ Looking for New grad 2025 positions ✨
 
 ### Work Experience 
 
@@ -19,6 +16,13 @@ Tools: React ⚛️, AWS, TensorFlow, Node.js, Git, Linux, jQuery, Dagger, Jira,
 ### Leadership
 - University of Guelph, Computer Science Teaching Assistant (May 2022 - present)
 - Guelph Women in Computer Science, Co-President (May 2022 - present)
+
+### Skills
+
+Languages: Python, Java ☕, C, R, HTML/CSS, TypeScript, MATLAB, SQL, GOlang⚡
+Tools: React ⚛️, AWS, TensorFlow, Node.js, Git, Linux, jQuery, Dagger, Jira, Docker, Jenkins, Robot
+
+
 <!---
 rashi2002/rashi2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

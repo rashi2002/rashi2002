@@ -7,7 +7,7 @@
 
 ### Work Experience 
 
-- Amazon, Software Development Engineering Intern (May 2024 - present)
+- Amazon, Software Development Engineering Intern (May 2024 - Aug 2024)
 - Arctic Wolf, Software Developer Co-op (Jan 2024 - Apr 2024)
 - Amazon, Software Development Engineering Intern (May 2023 - Sept 2023)
 - Nokia, Real-Time Software Developer Intern (Sep 2022 - Apr 2023)

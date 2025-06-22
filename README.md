@@ -3,10 +3,9 @@
 
 ## A bit about me..
 
-✨ Looking for New grad 2025 positions ✨
-
 ### Work Experience 
 
+- Nokia, Embedded Software Developer (May 2025 - Present)
 - Amazon, Software Development Engineering Intern (May 2024 - Aug 2024)
 - Arctic Wolf, Software Developer Co-op (Jan 2024 - Apr 2024)
 - Amazon, Software Development Engineering Intern (May 2023 - Sept 2023)
